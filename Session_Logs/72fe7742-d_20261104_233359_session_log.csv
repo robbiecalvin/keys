@@ -1,0 +1,2 @@
+SessionID,Timestamp,VisitorIP,CardNumber,Name,UserAgent
+72fe7742-d,20261104_233359,127.0.0.1,123432123454566,Hello,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"

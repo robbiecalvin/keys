@@ -1,0 +1,3 @@
+Flask
+pandas
+# If you are using SSL, you might also need requests or similar if you add complexity

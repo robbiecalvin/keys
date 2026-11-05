@@ -1,0 +1,31 @@
+2026-11-04 23:10:12,026 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://10.0.0.157:80
+2026-11-04 23:10:12,026 - INFO - [33mPress CTRL+C to quit[0m
+2026-11-04 23:10:12,027 - INFO -  * Restarting with stat
+2026-11-04 23:10:12,486 - WARNING -  * Debugger is active!
+2026-11-04 23:10:12,493 - INFO -  * Debugger PIN: 558-221-979
+2026-11-04 23:10:59,326 - INFO - 127.0.0.1 - - [04/Nov/2026 23:10:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-11-04 23:10:59,355 - INFO - 127.0.0.1 - - [04/Nov/2026 23:10:59] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-11-04 23:10:59,356 - INFO - 127.0.0.1 - - [04/Nov/2026 23:10:59] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-11-04 23:10:59,485 - INFO - 127.0.0.1 - - [04/Nov/2026 23:10:59] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=32OhGPywfRSn5WJsS1p4 HTTP/1.1" 200 -
+2026-11-04 23:10:59,493 - INFO - 127.0.0.1 - - [04/Nov/2026 23:10:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-11-04 23:13:07,590 - INFO -  * Detected change in '/Users/Robbie/projects/keys/server.py', reloading
+2026-11-04 23:13:07,636 - INFO -  * Restarting with stat
+2026-11-04 23:13:08,222 - WARNING -  * Debugger is active!
+2026-11-04 23:13:08,228 - INFO -  * Debugger PIN: 558-221-979
+2026-11-04 23:13:22,499 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://10.0.0.157:80
+2026-11-04 23:13:22,500 - INFO - [33mPress CTRL+C to quit[0m
+2026-11-04 23:13:22,502 - INFO -  * Restarting with stat
+2026-11-04 23:13:22,956 - WARNING -  * Debugger is active!
+2026-11-04 23:13:22,960 - INFO -  * Debugger PIN: 558-221-979
+2026-11-04 23:14:07,803 - INFO - 127.0.0.1 - - [04/Nov/2026 23:14:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-11-04 23:14:07,822 - INFO - 127.0.0.1 - - [04/Nov/2026 23:14:07] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-11-04 23:14:07,823 - INFO - 127.0.0.1 - - [04/Nov/2026 23:14:07] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-11-04 23:14:07,827 - INFO - 127.0.0.1 - - [04/Nov/2026 23:14:07] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=boPSFWPFnRpz7DfLGPjN HTTP/1.1" 200 -
+2026-11-04 23:16:47,442 - INFO -  * Detected change in '/Users/Robbie/projects/keys/server.py', reloading
+2026-11-04 23:16:47,487 - INFO -  * Restarting with stat

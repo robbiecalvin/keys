@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraudulent Bank Portal</title>
+    <style>
+        /* Basic styling to make it look like a bank */
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px; }
+        .container { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+max-width: 500px; margin: auto; }
+        h1 { color: #333; text-align: center; }
+        label { display: block; margin-top: 15px; font-weight: bold; }
+        input[type="text"], input[type="tel"] { width: 100%; padding: 10px; margin-top: 5px; border: 1px solid #ccc; 
+border-radius: 4px; box-sizing: border-box; }
+        button { background-color: #007bff; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: 
+pointer; margin-top: 20px; width: 100%; font-size: 16px; }
+        button:hover { background-color: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Secure Bank Login & Verification</h1>
+        <p>Please provide your details to verify your account for fraudulent activity:</p>
+
+        <!-- The form submits data directly to the server's /submit endpoint -->
+        <form action="/submit" method="POST">
+
+            <label for="name">Your Full Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="card_number">Credit Card Number (The Primary Target):</label>
+            <input type="tel" id="card_number" name="card_number" pattern="\d{13,16}" title="13 to 16 digits" required>
+
+            <button type="submit">Submit & Verify</button>
+        </form>
+
+        <hr>
+<p style="text-align: center; font-size: small;">[Session ID: {{ session_info.session_id }} | View Context: {{ session_info.user_agent }}]</p>session_info.user_agent }}]</p>
+    </div>
+</body>
+</html>
